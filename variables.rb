@@ -17,3 +17,13 @@ cost_of_program = 25000
 completed_highschool = true
 drivers_license = true
 passed_mod_0 = true
+
+# reassignment
+name = "Kelly Leahy"
+age = 37
+height_in_inches 71.5
+
+# Puts statements
+puts name
+puts height_in_inches
+puts age
