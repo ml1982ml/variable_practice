@@ -13,3 +13,7 @@ height_in_inches = 75.5
 balance = 1200.00
 cost_of_program = 25000
 
+# Boolean
+completed_highschool = true
+drivers_license = true
+passed_mod_0 = true
