@@ -21,7 +21,7 @@ passed_mod_0 = true
 # reassignment
 name = "Kelly Leahy"
 age = 37
-height_in_inches 71.5
+height_in_inches = 71.5
 
 # Puts statements
 puts name
