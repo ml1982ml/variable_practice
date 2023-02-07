@@ -5,9 +5,9 @@ boolean = ["True", "False", "true", "False"]
 
 # Will remove the last element from the array.
 friends.pop
-# Will remove the first element from the array.
+# Will add to the end of an array.
 tickets.push
-# Will add an element to the end of the array.
+# Will remove the first element from an array.
 cost.shift
 # Will add an element to the front of an array.
 boolean.unshift
