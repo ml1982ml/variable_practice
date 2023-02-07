@@ -16,3 +16,6 @@ p friends [0]
 p tickets [2]
 p cost [3]
 p boolean [1]
+
+# The .delete_at method allows you to permanently remove an element of an array at a specified index:
+friends.delete_at(2)
