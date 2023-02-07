@@ -11,3 +11,8 @@ tickets.push
 cost.shift
 # Will add an element to the front of an array.
 boolean.unshift
+
+p friends [0]
+p tickets [2]
+p cost [3]
+p boolean [1]
